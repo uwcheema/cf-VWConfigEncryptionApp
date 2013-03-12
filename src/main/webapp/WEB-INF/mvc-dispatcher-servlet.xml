@@ -1,0 +1,23 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+	<bean id="viewResolver"
+		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		<property name="prefix">
+			<value>/WEB-INF/pages/</value>
+		</property>
+		<property name="suffix">
+			<value>.jsp</value>
+		</property>
+	</bean>
+
+	<bean name="/config.htm" class="com.vw.common.ConfigurationController">
+        <property name="keyResource" value="/WEB-INF/resources/public.key"/>
+        <property name="configResource" value="/WEB-INF/resources/configuration.json"/>
+        <property name="cacheSeconds" value="86400"/>
+        <property name="requireSession" value="false"/>
+    </bean>
+
+</beans>
