@@ -32,7 +32,7 @@ public class ConfigurationController extends AbstractController {
     public void setKeyResource(Resource res) throws Exception {
         keyResource = res;
         encryptionKey = (PublicKey) new ObjectInputStream(keyResource.getInputStream()).readObject();
-        cipher = Cipher.getInstance("RSA");
+        Cipher.getInstance("RSA/ECB/PKCS1PADDING");
         cipher.init(Cipher.ENCRYPT_MODE, encryptionKey);
     }
 

@@ -1,0 +1,22 @@
+{
+
+		"profiles": [
+		{
+		"id": 1,
+		"title": "Breakfast time"
+		},
+		{
+		"id": 2,
+		"title": "Entertainment"
+		},
+				{
+		"id": 3,
+		"title": "Kids"
+		},
+		{
+		"id": 4,
+		"title": "Sport"
+		},
+		
+		]
+}
