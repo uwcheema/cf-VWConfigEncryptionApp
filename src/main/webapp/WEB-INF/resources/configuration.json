@@ -7,6 +7,6 @@
     "ProfilesFeedURL": "http://109.123.74.79:8080/ConfigEncryption/samplefeeds/profiles.json",
     "SearchFiltersFeedURL": "http://109.123.74.79:8080/ConfigEncryption/samplefeeds/search_filters.json",
     "ProgramInfoFeedURL": "http://109.123.74.79:8080/ConfigEncryption/samplefeeds/programme_info.json",
-    "FilmInfoFeedURL": "http://109.123.74.79:8080/ConfigEncryption/samplefeeds/film_info.json",
+    "FilmInfoFeedURL": "http://109.123.74.79:8080/ConfigEncryption/samplefeeds/film_info.json"
 
 }
