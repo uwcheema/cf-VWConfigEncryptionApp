@@ -1,11 +1,10 @@
 package com.vw.common;
 
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.ObjectInputStream;
-import java.security.NoSuchAlgorithmException;
-import java.security.PrivateKey;
-import java.security.PublicKey;
+import org.apache.commons.codec.binary.Hex;
+import org.apache.commons.io.IOUtils;
+import org.springframework.core.io.Resource;
+import org.springframework.web.servlet.ModelAndView;
+import org.springframework.web.servlet.mvc.AbstractController;
 
 import javax.crypto.BadPaddingException;
 import javax.crypto.Cipher;
@@ -13,26 +12,26 @@ import javax.crypto.IllegalBlockSizeException;
 import javax.crypto.NoSuchPaddingException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-
-import org.apache.commons.codec.binary.Hex;
-import org.apache.commons.io.IOUtils;
-import org.springframework.core.io.Resource;
-import org.springframework.web.servlet.ModelAndView;
-import org.springframework.web.servlet.mvc.AbstractController;
+import java.io.ObjectInputStream;
+import java.security.NoSuchAlgorithmException;
+import java.security.PublicKey;
 
 
 public class ConfigurationController extends AbstractController {
 
 	private PublicKey encryptionKey=null;
-    private Resource keyResource;
     private Resource configResource;
+
+    private Resource key;
     private Cipher cipher=null;
     private String message;
 
-    public void setKeyResource(Resource res) throws Exception {
-        keyResource = res;
-        encryptionKey = (PublicKey) new ObjectInputStream(keyResource.getInputStream()).readObject();
-        Cipher.getInstance("RSA/ECB/PKCS1PADDING");
+    public void setKey(Resource key) throws Exception {
+        this.key=key;
+
+        encryptionKey = (PublicKey) new ObjectInputStream(this.key.getInputStream()).readObject();
+
+        cipher = Cipher.getInstance("RSA/ECB/PKCS1PADDING");
         cipher.init(Cipher.ENCRYPT_MODE, encryptionKey);
     }
 
