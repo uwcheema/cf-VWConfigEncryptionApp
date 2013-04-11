@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1b2f213-5534-454b-a9d1-7bdb39178c81" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/vw/common/ConfigurationController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/jsp/org/apache/jsp/WEB_002dINF/pages/configuration_jsp.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConfigEncryption.iml" afterPath="$PROJECT_DIR$/ConfigEncryption.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConfigEncryption.ipr" afterPath="$PROJECT_DIR$/ConfigEncryption.ipr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConfigEncryption.iws" afterPath="$PROJECT_DIR$/ConfigEncryption.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/vw/common/ConfigurationController.java" afterPath="$PROJECT_DIR$/src/main/java/com/vw/common/ConfigurationController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/configuration.json" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/configuration.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/samplefeeds/main_menu.json" afterPath="$PROJECT_DIR$/src/main/webapp/samplefeeds/main_menu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="ConfigEncryption.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -130,10 +126,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="12" selection-start="2596" selection-end="2596" vertical-scroll-proportion="0.23976608">
+            <state line="68" column="12" selection-start="2596" selection-end="2596" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main_menu.json" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/samplefeeds/main_menu.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="1" selection-start="1138" selection-end="1138" vertical-scroll-proportion="0.5701754">
               <folding />
             </state>
           </provider>
@@ -172,6 +177,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/vw/common/ConfigurationController.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/samplefeeds/main_menu.json" />
       </list>
     </option>
   </component>
@@ -345,6 +351,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samplefeeds" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -672,7 +682,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="12" selection-start="2596" selection-end="2596" vertical-scroll-proportion="0.23976608">
+        <state line="68" column="12" selection-start="2596" selection-end="2596" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/samplefeeds/main_menu.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="1" selection-start="1138" selection-end="1138" vertical-scroll-proportion="0.5701754">
           <folding />
         </state>
       </provider>
