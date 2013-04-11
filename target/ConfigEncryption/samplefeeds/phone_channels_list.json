@@ -1,0 +1,155 @@
+_selected": "0",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel01.png",
+    		"channel_name": "Geo",
+"channel_category": "Sports",
+			"how_much_completed": "50"
+        },
+
+	{
+             "is_selected": "0",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel02.png",
+			"channel_name": "National Geo Graphic",
+"channel_category": "Sports",
+			"how_much_completed": "30"
+        },
+		{
+             "is_selected": "1",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel03.png",
+			"channel_name": "Disney TV",
+			"channel_category": "Sports",
+			"how_much_completed": "0"
+        },
+
+	{
+             "is_selected": "0",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel04.png",
+			"channel_name": "Nat Geo Max",
+"channel_category": "Sports",
+			"how_much_completed": "30"
+        },
+		{
+             "is_selected": "1",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel05.png",
+			"channel_name": "HBO",
+"channel_category": "News",
+			"how_much_completed": "0"
+        },
+    {
+             "is_selected": "1",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel02.png",
+			"channel_name": "Zoom TV",
+"channel_category": "News",
+			"how_much_completed": "80"
+        },
+
+	{
+             "is_selected": "0",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel03.png",
+			"channel_name": "National Geo Graphic",
+"channel_category": "News",
+			"how_much_completed": "30"
+        },
+		{
+             "is_selected": "1",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel06.png",
+			"channel_name": "Masala TV",
+"channel_category": "News",
+			"how_much_completed": "0"
+        },
+    {
+             "is_selected": "1",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel02.png",
+			"channel_name": "Masala TV",
+"channel_category": "News",
+			"how_much_completed": "80"
+        },
+
+	{
+             "is_selected": "0",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel04.png",
+			"channel_name": "National Geo Graphic",
+"channel_category": "News",
+			"how_much_completed": "30"
+        },
+		{
+             "is_selected": "1",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel03.png",
+			"channel_name": "Masala TV",
+"channel_category": "News",
+			"how_much_completed": "0"
+        },
+    {
+             "is_selected": "1",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel02.png",
+			"channel_name": "Masala TV",
+"channel_category": "My Favourites",
+			"how_much_completed": "80"
+        },
+
+	{
+             "is_selected": "0",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel01.png",
+			"channel_name": "National Geo Graphic",
+"channel_category": "My Favourites",
+			"how_much_completed": "30"
+        },
+		{
+             "is_selected": "1",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel01.png",
+			"channel_name": "Masala TV",
+"channel_category": "My Favourites",
+			"how_much_completed": "0"
+        },
+    {
+             "is_selected": "1",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel06.png",
+			"channel_name": "Masala TV",
+"channel_category": "My Favourites",
+			"how_much_completed": "80"
+        },
+
+	{
+             "is_selected": "0",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel05.png",
+			"channel_name": "National Geo Graphic",
+"channel_category": "My Favourites",
+			"how_much_completed": "30"
+        },
+		{
+             "is_selected": "1",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel01.png",
+			"channel_name": "Masala TV",
+"channel_category": "My Favourites",
+			"how_much_completed": "0"
+        },
+    {
+             "is_selected": "1",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel06.png",
+			"channel_name": "Masala TV",
+"channel_category": "My Favourites",
+			"how_much_completed": "80"
+        },
+
+	{
+             "is_selected": "0",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel04.png",
+			"channel_name": "National Geo Graphic",
+"channel_category": "My Favourites",
+			"how_much_completed": "30"
+        },
+		{
+             "is_selected": "1",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel05.png",
+			"channel_name": "Masala TV",
+"channel_category": "My Favourites",
+			"how_much_completed": "0"
+        },
+    {
+             "is_selected": "1",
+            "channel_url": "http://dl.dropbox.com/u/153008474/channel01.png",
+			"channel_name": "Masala TV",
+"channel_category": "My Favourites",
+			"how_much_completed": "80"
+        }
+]
+

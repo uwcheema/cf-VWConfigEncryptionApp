@@ -1,0 +1,12 @@
+{
+    "ChannelGridFeedURL": "http://109.123.74.79/ConfigEncryption/samplefeeds/channel_grid.json",
+    "ChannelCategoriesFeedURL": "http://109.123.74.79/ConfigEncryption/samplefeeds/channel_catgories.json",
+    "FilmGenresFeedURL": "http://109.123.74.79/ConfigEncryption/samplefeeds/film_genres.json",
+    "FilmStoreFiltersFeedURL": "http://109.123.74.79/ConfigEncryption/samplefeeds/film_store_filters.json",
+    "MainMenuFeedURL": "http://109.123.74.79/ConfigEncryption/samplefeeds/main_menu.json",
+    "ProfilesFeedURL": "http://109.123.74.79/ConfigEncryption/samplefeeds/profiles.json",
+    "SearchFiltersFeedURL": "http://109.123.74.79/ConfigEncryption/samplefeeds/search_filters.json",
+    "ProgramInfoFeedURL": "http://109.123.74.79/ConfigEncryption/samplefeeds/programme_info.json",
+    "FilmInfoFeedURL": "http://109.123.74.79/ConfigEncryption/samplefeeds/film_info.json"
+
+}

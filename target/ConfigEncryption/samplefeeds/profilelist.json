@@ -1,0 +1,22 @@
+[
+  {
+    "profile_name": "Breakfast time",
+    "image_url": "",
+    "is_selected": false
+  },
+  {
+    "profile_name": "Entertainment",
+    "image_url": "",
+    "is_selected": true
+  },
+  {
+    "profile_name": "Kids",
+    "image_url": "",
+    "is_selected": false
+  },
+  {
+    "profile_name": "Sports",
+    "image_url": "",
+    "is_selected": false
+  }
+]

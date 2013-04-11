@@ -1,0 +1,16 @@
+{
+
+    "channel_categories": [
+        {
+            "id": 1,
+            "title": "News",
+            "channel_count": 15
+        },
+        {
+            "id": 2,
+            "title": "Sports",
+            "channel_count": 35
+        },
+    ]
+
+}

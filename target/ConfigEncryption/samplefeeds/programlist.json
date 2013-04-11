@@ -1,0 +1,66 @@
+[
+        {
+            "channel_name": "Disney Channel",
+            "show_name": "Aladin",
+            "channel_link": "",
+            "is_playable": true,
+            "seekbar_count": 10,
+            "image_url": "R.drawable.aladin"
+        },
+        {
+            "channel_name": "Disney Channel 1",
+            "show_name": "College Life",
+            "channel_link": "",
+            "is_playable": true,
+            "seekbar_count": 70,
+            "image_url": "R.drawable.disney_channel_2"
+        },
+        {
+            "channel_name": "Disney Channel 2",
+            "show_name": "Hanana Montana",
+            "channel_link": "",
+            "is_playable": false,
+            "seekbar_count": 0,
+            "image_url": "R.drawable.disney_channel_1"
+        },
+        {
+            "channel_name": "History Channel",
+            "show_name": "Ice board",
+            "channel_link": "",
+            "is_playable": true,
+            "seekbar_count": 40,
+            "image_url": "R.drawable.history_channel_shows"
+        },
+        {
+            "channel_name": "Disney Channel",
+            "show_name": "Aladin",
+            "channel_link": "",
+            "is_playable": true,
+            "seekbar_count": 10,
+            "image_url": "R.drawable.aladin"
+        },
+        {
+            "channel_name": "Disney Channel 1",
+            "show_name": "College Life",
+            "channel_link": "",
+            "is_playable": true,
+            "seekbar_count": 70,
+            "image_url": "R.drawable.disney_channel_2"
+        },
+        {
+            "channel_name": "Disney Channel 2",
+            "show_name": "Hanana Montana",
+            "channel_link": "",
+            "is_playable": false,
+            "seekbar_count": 0,
+            "image_url": "R.drawable.disney_channel_1"
+        },
+        {
+            "channel_name": "History Channel",
+            "show_name": "Ice board",
+            "channel_link": "",
+            "is_playable": true,
+            "seekbar_count": 40,
+            "image_url": "R.drawable.history_channel_shows"
+        }
+    ]

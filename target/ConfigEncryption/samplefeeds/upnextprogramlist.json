@@ -1,0 +1,25 @@
+[
+        {
+	    
+            "show_status": "On Now",
+            "show_name": "Game of Thrones",
+			"start_time": "18:00",
+			"end_time": "18:30",
+			"how_much_completed": "55"
+        },
+
+	{
+            "show_status": "Up Next",
+            "show_name": "Seinfeld",
+			"start_time": "18:30",
+			"end_time": "19:00",
+			"how_much_completed": "0"
+        },
+		{
+            "show_status": "In One Hour",
+            "show_name": "How I met your mother",
+			"start_time": "19:00",
+			"end_time": "19:30",
+			"how_much_completed": "0"
+        }
+]

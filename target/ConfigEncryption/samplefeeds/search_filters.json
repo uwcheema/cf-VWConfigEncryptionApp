@@ -1,0 +1,25 @@
+{
+
+		"search_filters": [
+		{
+		"id": 1,
+		"title": "Programme Guide",
+		"type": "programme_guide"
+		},
+		{
+		"id": 2,
+		"title": "Catch-up",
+		"type": "catch_up"
+		},
+		{
+		"id": 3,
+		"title": "Film Store",
+		"type": "film_store"
+		},
+		{
+		"id": 4,
+		"title": "Series Store",
+		"type": "series_store"
+		}
+		]
+}

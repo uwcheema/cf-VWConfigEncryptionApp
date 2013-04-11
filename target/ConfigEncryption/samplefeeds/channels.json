@@ -1,0 +1,191 @@
+[
+    {
+        "is_selected": "0",
+        "channel_url": "chanal_one",
+        "channel_name": "Geo",
+        "channel_category": "Sports",
+        "how_much_completed": "50"
+    },
+    {
+        "is_selected": "0",
+        "channel_url": "chanal_two",
+        "channel_name": "National Geo Graphic",
+        "channel_category": "Sports",
+        "how_much_completed": "30"
+    },
+    {
+        "is_selected": "1",
+        "channel_url": "chanal_three",
+        "channel_name": "Disney TV",
+        "channel_category": "Sports",
+        "how_much_completed": "0"
+    },
+    {
+        "is_selected": "0",
+        "channel_url": "chanal_four",
+        "channel_name": "Nat Geo Max",
+        "channel_category": "Sports",
+        "how_much_completed": "30"
+    },
+    {
+        "is_selected": "1",
+        "channel_url": "chanal_five",
+        "channel_name": "HBO",
+        "channel_category": "News",
+        "how_much_completed": "0"
+    },
+    {
+        "is_selected": "1",
+        "channel_url": "chanal_six",
+        "channel_name": "Zoom TV",
+        "channel_category": "News",
+        "how_much_completed": "80"
+    },
+    {
+        "is_selected": "0",
+        "channel_url": "chanal_seven",
+        "channel_name": "National Geo Graphic",
+        "channel_category": "News",
+        "how_much_completed": "30"
+    },
+    {
+        "is_selected": "1",
+        "channel_url": "chanal_eight",
+        "channel_name": "Masala TV",
+        "channel_category": "News",
+        "how_much_completed": "0"
+    },
+    {
+        "is_selected": "1",
+        "channel_url": "chanal_nine",
+        "channel_name": "Masala TV",
+        "channel_category": "News",
+        "how_much_completed": "80"
+    },
+    {
+        "is_selected": "0",
+        "channel_url": "chanal_one",
+        "channel_name": "Geo",
+        "channel_category": "Sports",
+        "how_much_completed": "50"
+    },
+    {
+        "is_selected": "0",
+        "channel_url": "chanal_two",
+        "channel_name": "National Geo Graphic",
+        "channel_category": "Sports",
+        "how_much_completed": "30"
+    },
+    {
+        "is_selected": "1",
+        "channel_url": "chanal_three",
+        "channel_name": "Disney TV",
+        "channel_category": "Sports",
+        "how_much_completed": "0"
+    },
+    {
+        "is_selected": "0",
+        "channel_url": "chanal_four",
+        "channel_name": "Nat Geo Max",
+        "channel_category": "Sports",
+        "how_much_completed": "30"
+    },
+    {
+        "is_selected": "1",
+        "channel_url": "chanal_five",
+        "channel_name": "HBO",
+        "channel_category": "News",
+        "how_much_completed": "0"
+    },
+    {
+        "is_selected": "1",
+        "channel_url": "chanal_six",
+        "channel_name": "Zoom TV",
+        "channel_category": "News",
+        "how_much_completed": "80"
+    },
+    {
+        "is_selected": "0",
+        "channel_url": "chanal_seven",
+        "channel_name": "National Geo Graphic",
+        "channel_category": "News",
+        "how_much_completed": "30"
+    },
+    {
+        "is_selected": "1",
+        "channel_url": "chanal_eight",
+        "channel_name": "Masala TV",
+        "channel_category": "News",
+        "how_much_completed": "0"
+    },
+    {
+        "is_selected": "1",
+        "channel_url": "chanal_nine",
+        "channel_name": "Masala TV",
+        "channel_category": "News",
+        "how_much_completed": "80"
+    },
+    {
+        "is_selected": "0",
+        "channel_url": "chanal_one",
+        "channel_name": "Geo",
+        "channel_category": "Sports",
+        "how_much_completed": "50"
+    },
+    {
+        "is_selected": "0",
+        "channel_url": "chanal_two",
+        "channel_name": "National Geo Graphic",
+        "channel_category": "Sports",
+        "how_much_completed": "30"
+    },
+    {
+        "is_selected": "1",
+        "channel_url": "chanal_three",
+        "channel_name": "Disney TV",
+        "channel_category": "Sports",
+        "how_much_completed": "0"
+    },
+    {
+        "is_selected": "0",
+        "channel_url": "chanal_four",
+        "channel_name": "Nat Geo Max",
+        "channel_category": "Sports",
+        "how_much_completed": "30"
+    },
+    {
+        "is_selected": "1",
+        "channel_url": "chanal_five",
+        "channel_name": "HBO",
+        "channel_category": "News",
+        "how_much_completed": "0"
+    },
+    {
+        "is_selected": "1",
+        "channel_url": "chanal_six",
+        "channel_name": "Zoom TV",
+        "channel_category": "News",
+        "how_much_completed": "80"
+    },
+    {
+        "is_selected": "0",
+        "channel_url": "chanal_seven",
+        "channel_name": "National Geo Graphic",
+        "channel_category": "News",
+        "how_much_completed": "30"
+    },
+    {
+        "is_selected": "1",
+        "channel_url": "chanal_eight",
+        "channel_name": "Masala TV",
+        "channel_category": "News",
+        "how_much_completed": "0"
+    },
+    {
+        "is_selected": "1",
+        "channel_url": "chanal_nine",
+        "channel_name": "Masala TV",
+        "channel_category": "News",
+        "how_much_completed": "80"
+    }
+]
