@@ -1,0 +1,16 @@
+
+        {
+	  "programme_info": {
+    		"title": "Game of Thrones",
+		"episode": "Episode 5",
+    		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, auctor tempor risus.",
+    		"start_date": "19-03-2013",
+    		"start_time": "18:00",
+    		"end_time": "19:00",
+    		"channel_title": "Channel 10",
+    		"audio": "English",
+    		"Subtitle": "Norsk",
+    		"image": "/images/film/default_main.jpg"
+
+		}
+	}

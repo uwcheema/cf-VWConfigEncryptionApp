@@ -1,4 +1,6 @@
-_selected": "0",
+[
+        {
+            "is_selected": "0",
             "channel_url": "http://dl.dropbox.com/u/153008474/channel01.png",
     		"channel_name": "Geo",
 "channel_category": "Sports",
@@ -152,4 +154,3 @@ _selected": "0",
 			"how_much_completed": "80"
         }
 ]
-

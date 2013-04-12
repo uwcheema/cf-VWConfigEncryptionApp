@@ -1,0 +1,336 @@
+[
+    {
+        "id": 0,
+        "channel_name": "CITV",
+        "channel_url": "http://j.static-locatetv.com/images/channel/citv_uk_2013.png",
+        "channel_category": "News",
+        "how_much_completed": 30,
+        "selected": false,
+        "program_list": [
+            {
+                "id": 0,
+                "title": "Close",
+                "episodes": [
+                    {
+                        "id": 0,
+                        "type": "Close",
+                        "episode": "Epospde 1",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-04-07",
+                        "start_time": "08:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    },
+                    {
+                        "id": 1,
+                        "type": "Close",
+                        "episode": "Epospde 2",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-05-07",
+                        "start_time": "08:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    },
+                    {
+                        "id": 2,
+                        "type": "Close",
+                        "episode": "Epospde 3",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-06-07",
+                        "start_time": "08:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    },
+                    {
+                        "id": 3,
+                        "type": "Close",
+                        "episode": "Epospde 4",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-07-07",
+                        "start_time": "08:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "title": "Horrid Henry",
+                "episodes": [
+                    {
+                        "id": 0,
+                        "type": "Close",
+                        "episode": "Epospde 1",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-04-07",
+                        "start_time": "10:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    },
+                    {
+                        "id": 1,
+                        "type": "Close",
+                        "episode": "Epospde 2",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-05-07",
+                        "start_time": "10:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    },
+                    {
+                        "id": 2,
+                        "type": "Close",
+                        "episode": "Epospde 3",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-06-07",
+                        "start_time": "10:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    },
+                    {
+                        "id": 3,
+                        "type": "Close",
+                        "episode": "Epospde 4",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-07-07",
+                        "start_time": "10:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "BBC News at Ten",
+                "episodes": [
+                    {
+                        "id": 0,
+                        "type": "Close",
+                        "episode": "Epospde 1",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-04-07",
+                        "start_time": "12:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    },
+                    {
+                        "id": 1,
+                        "type": "Close",
+                        "episode": "Epospde 2",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-05-07",
+                        "start_time": "12:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    },
+                    {
+                        "id": 2,
+                        "type": "Close",
+                        "episode": "Epospde 3",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-06-07",
+                        "start_time": "12:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    },
+                    {
+                        "id": 3,
+                        "type": "Close",
+                        "episode": "Epospde 4",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-07-07",
+                        "start_time": "12:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "A Call to Arms",
+                "episodes": [
+                    {
+                        "id": 0,
+                        "type": "Close",
+                        "episode": "Epospde 1",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-04-07",
+                        "start_time": "14:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    },
+                    {
+                        "id": 1,
+                        "type": "Close",
+                        "episode": "Epospde 2",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-05-07",
+                        "start_time": "14:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    },
+                    {
+                        "id": 2,
+                        "type": "Close",
+                        "episode": "Epospde 3",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-06-07",
+                        "start_time": "14:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    },
+                    {
+                        "id": 3,
+                        "type": "Close",
+                        "episode": "Epospde 4",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-07-07",
+                        "start_time": "14:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "One Last Dash",
+                "episodes": [
+                    {
+                        "id": 0,
+                        "type": "Close",
+                        "episode": "Epospde 1",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-04-07",
+                        "start_time": "16:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    },
+                    {
+                        "id": 1,
+                        "type": "Close",
+                        "episode": "Epospde 2",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-05-07",
+                        "start_time": "16:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    },
+                    {
+                        "id": 2,
+                        "type": "Close",
+                        "episode": "Epospde 3",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-06-07",
+                        "start_time": "16:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    },
+                    {
+                        "id": 3,
+                        "type": "Close",
+                        "episode": "Epospde 4",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-07-07",
+                        "start_time": "16:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Unbreakable",
+                "episodes": [
+                    {
+                        "id": 0,
+                        "type": "Close",
+                        "episode": "Epospde 1",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-04-07",
+                        "start_time": "18:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    },
+                    {
+                        "id": 1,
+                        "type": "Close",
+                        "episode": "Epospde 2",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-05-07",
+                        "start_time": "18:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    },
+                    {
+                        "id": 2,
+                        "type": "Close",
+                        "episode": "Epospde 3",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-06-07",
+                        "start_time": "18:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    },
+                    {
+                        "id": 3,
+                        "type": "Close",
+                        "episode": "Epospde 4",
+                        "description": "Lorem ipsum dolor sit et, consectetur adipiscing elit. Nam malesuada dictum erat id commodo. Pellentesque purus augue, sollicitudin eu congue vitae, actor tempor risu",
+                        "start_date": "2013-07-07",
+                        "start_time": "18:00",
+                        "duration": 43200,
+                        "audio": "English",
+                        "Subtitle": "Norsk",
+                        "image": "http://dl.dropbox.com/u/153008474/image_channel_guid.png"
+                    }
+                ]
+            }
+        ]
+    }
+]
