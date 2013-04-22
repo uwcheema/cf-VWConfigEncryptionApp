@@ -1,0 +1,40 @@
+{
+    "main_menu": [
+        {
+            "id": 1,
+            "title": "My TV",
+            "image": "main_menu_mytv",
+            "image_selected": "main_menu_mytv_white"
+        },
+        {
+            "channel_id": 2,
+            "title": "Live TV",
+            "image": "main_menu_live_tv",
+            "image_selected": "main_menu_live_tv_white"
+        },
+        {
+            "channel_id": 2,
+            "title": "Programme Guide",
+            "image": "main_menu_programe_guide",
+            "image_selected": "main_menu_programe_guide_white"
+        },
+        {
+            "channel_id": 3,
+            "title": "Film Store",
+            "image": "main_menu_film_store",
+            "image_selected": "main_menu_film_store_white"
+        },
+        {
+            "channel_id": 4,
+            "title": "Series Store",
+            "image": "main_menu_series_store",
+            "image_selected": "main_menu_series_store_white"
+        },
+        {
+            "channel_id": 4,
+            "title": "Settings",
+            "image": "main_menu_setting",
+            "image_selected": "main_menu_setting_white"
+        }
+    ]
+}
