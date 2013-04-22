@@ -1,0 +1,36 @@
+{
+    "data": {
+        "entertainment_category": [
+            {
+                "id": "1",
+                "title": "ALL RECOMMENDATIONS",
+                "image_url": "",
+                "status": ""
+            },
+            {
+                "id": "2",
+                "title": "BREAKFAST TIME",
+                "image_url": "",
+                "status": ""
+            },
+            {
+                "id": "3",
+                "title": "ENTERTAINMENT",
+                "image_url": "",
+                "status": ""
+            },
+            {
+                "id": "4",
+                "title": "KIDS",
+                "image_url": "",
+                "status": ""
+            },
+            {
+                "id": "5",
+                "title": "SPORTS",
+                "image_url": "",
+                "status": ""
+            }
+        ]
+    }
+}

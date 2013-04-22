@@ -1,0 +1,85 @@
+{
+    "data": {
+        "film_store_sub_menu": [
+            {
+                "type": "menu",
+                "image_url": "",
+                "title": "Home",
+                "id": "1"
+            },
+            {
+                "type": "menu",
+                "image_url": "",
+                "title": "Recomended",
+                "id": "2"
+            },
+            {
+                "type": "menu",
+                "image_url": "",
+                "title": "Hot & fresh",
+                "id": "3"
+            },
+            {
+                "type": "menu",
+                "image_url": "",
+                "title": "My Films",
+                "id": "4"
+            },
+            {
+                "title": "gen",
+                "type": "divide",
+                "id": "5"
+            },
+            {
+                "title": "Action",
+                "type": "genres",
+                "id": "6"
+            },
+            {
+                "title": "Comedy",
+                "type": "genres",
+                "id": "7"
+            },
+            {
+                "title": "Documentary",
+                "type": "genres",
+                "id": "8"
+            },
+            {
+                "title": "Family",
+                "type": "genres",
+                "id": "9"
+            },
+            {
+                "title": "Drama",
+                "type": "genres",
+                "id": "10"
+            },
+            {
+                "title": "Thriller",
+                "type": "genres",
+                "id": "11"
+            },
+            {
+                "title": "Animated",
+                "type": "genres",
+                "id": "12"
+            },
+            {
+                "title": "Fantasy",
+                "type": "genres",
+                "id": "13"
+            },
+            {
+                "title": "Sci-Fi",
+                "type": "genres",
+                "id": "14"
+            },
+            {
+                "title": "Romantic",
+                "type": "genres",
+                "id": "15"
+            }
+        ]
+    }
+}
