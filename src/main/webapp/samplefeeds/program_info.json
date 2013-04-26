@@ -10,7 +10,7 @@
             "channel_title": "Channel 10",
             "audio": "English",
             "Subtitle": "Norsk",
-            "image": "http://dl.dropbox.com/u/153008474/aladin.jpg"
+            "image": "/images/aladin.jpg"
         }
     },
     {
@@ -24,7 +24,7 @@
             "channel_title": "Channel 10",
             "audio": "English",
             "Subtitle": "Norsk",
-            "image": "http://dl.dropbox.com/u/153008474/chanal_eight.png"
+            "image": "/images/chanal_eight.png"
         }
     },
     {
@@ -38,7 +38,7 @@
             "channel_title": "Channel 10",
             "audio": "English",
             "Subtitle": "Norsk",
-            "image": "http://dl.dropbox.com/u/153008474/chanal_five.png"
+            "image": "/images/chanal_five.png"
         }
     },
     {
@@ -52,7 +52,7 @@
             "channel_title": "Channel 10",
             "audio": "English",
             "Subtitle": "Norsk",
-            "image": "http://dl.dropbox.com/u/153008474/chanal_five.png"
+            "image": "/images/chanal_five.png"
         }
     },
     {
@@ -66,7 +66,7 @@
             "channel_title": "Channel 10",
             "audio": "English",
             "Subtitle": "Norsk",
-            "image": "http://dl.dropbox.com/u/153008474/chanal_five.png"
+            "image": "/images/chanal_five.png"
         }
     },
     {
@@ -80,7 +80,7 @@
             "channel_title": "Channel 10",
             "audio": "English",
             "Subtitle": "Norsk",
-            "image": "http://dl.dropbox.com/u/153008474/chanal_five.png"
+            "image": "/images/chanal_five.png"
         }
     },
     {
@@ -94,7 +94,7 @@
             "channel_title": "Channel 10",
             "audio": "English",
             "Subtitle": "Norsk",
-            "image": "http://dl.dropbox.com/u/153008474/chanal_five.png"
+            "image": "/images/chanal_five.png"
         }
     },
     {
@@ -108,7 +108,7 @@
             "channel_title": "Channel 10",
             "audio": "English",
             "Subtitle": "Norsk",
-            "image": "http://dl.dropbox.com/u/153008474/chanal_five.png"
+            "image": "/images/chanal_five.png"
         }
     },
     {
@@ -122,7 +122,7 @@
             "channel_title": "Channel 10",
             "audio": "English",
             "Subtitle": "Norsk",
-            "image": "http://dl.dropbox.com/u/153008474/chanal_four.png"
+            "image": "/images/chanal_four.png"
         }
     },
     {
@@ -136,7 +136,7 @@
             "channel_title": "Channel 10",
             "audio": "English",
             "Subtitle": "Norsk",
-            "image": "http://dl.dropbox.com/u/153008474/chanal_nine.png"
+            "image": "/images/chanal_nine.png"
         }
     },
     {
@@ -150,7 +150,7 @@
             "channel_title": "Channel 10",
             "audio": "English",
             "Subtitle": "Norsk",
-            "image": "http://dl.dropbox.com/u/153008474/chanal_nine.png"
+            "image": "/images/chanal_nine.png"
         }
     }
 ]
